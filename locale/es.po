@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:production,calendar_background_color:"
+msgid "Background Color"
+msgstr "Color de fondo"
+
+msgctxt "field:production,calendar_color:"
+msgid "Color"
+msgstr "Color"
+
+msgctxt "field:production.calendar.color,color:"
+msgid "Color"
+msgstr "Color"
+
+msgctxt "field:production.calendar.color,state:"
+msgid "State"
+msgstr "Estado"
+
+msgctxt "help:production.calendar.color,color:"
+msgid "Add color in hex code (ex. #000000)"
+msgstr "Añadir el color en código hex (ex. #000000)"
+
+msgctxt "model:ir.action,name:act_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "Colores del calendario de producción"
+
+msgctxt "model:ir.ui.menu,name:menu_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "Colores del calendario de producción"
+
+msgctxt "model:production.calendar.color,name:"
+msgid "Production Calendar Color"
+msgstr "Colores del calendario de producción"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Assigned"
+msgstr "Reservada"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Canceled"
+msgstr "Cancelado"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Done"
+msgstr "Finalizado"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Draft"
+msgstr "Borrador"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Request"
+msgstr "Solicitud"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Running"
+msgstr "En ejecución"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Waiting"
+msgstr "En espera"

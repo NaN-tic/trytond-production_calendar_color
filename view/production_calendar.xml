@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- This file is part of Tryton.  The COPYRIGHT file at the top level of
+this repository contains the full copyright notices and license terms. -->
+<data>
+    <xpath expr="/calendar" position="replace_attributes">
+      <calendar dtstart="planned_start_date" dtend="planned_date" color="calendar_color" background_color="calendar_background_color"/>
+    </xpath>
+    <xpath expr="/calendar/field[@name='reference']" position="after">
+        <field name="quantity"/>
+    </xpath>
+</data>
