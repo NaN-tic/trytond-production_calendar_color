@@ -52,8 +52,7 @@ class Production(metaclass=PoolMeta):
         return CalendarColor.compute(self.state)
 
 
-class ProductionCalendarColor(sequence_ordered(), MatchMixin, ModelSQL,
-    ModelView):
+class ProductionCalendarColor(ModelSQL, ModelView):
     '''Production Calendar Color'''
     __name__ = 'production.calendar.color'
 
