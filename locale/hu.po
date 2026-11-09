@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "field:production,calendar_background_color:"
+msgid "Background Color"
+msgstr "Háttérszín"
+
+msgctxt "field:production,calendar_color:"
+msgid "Color"
+msgstr "Szín"
+
+msgctxt "field:production.calendar.color,color:"
+msgid "Color"
+msgstr "Szín"
+
+msgctxt "field:production.calendar.color,state:"
+msgid "State"
+msgstr "Állapot"
+
+msgctxt "help:production.calendar.color,color:"
+msgid "Add color in hex code (ex. #000000)"
+msgstr "Adja meg a színt hexadecimális kóddal (pl. #000000)"
+
+msgctxt "model:ir.action,name:act_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "Gyártási naptár színei"
+
+msgctxt "model:ir.ui.menu,name:menu_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "Gyártási naptár színei"
+
+msgctxt "model:production.calendar.color,name:"
+msgid "Production Calendar Color"
+msgstr "Gyártási naptár színe"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Assigned"
+msgstr "Lefoglalva"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Canceled"
+msgstr "Visszavonva"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Done"
+msgstr "Kész"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Draft"
+msgstr "vázlat"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Request"
+msgstr "Kérés"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Running"
+msgstr "Folyamatban"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Waiting"
+msgstr "várakozik"
+
+msgctxt "model:production.calendar.color,string:"
+msgid "Production Calendar Color"
+msgstr "Gyártási naptár színe"
