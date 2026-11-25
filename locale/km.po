@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "field:production,calendar_background_color:"
+msgid "Background Color"
+msgstr "ពណ៌ផ្ទៃខាងក្រោយ"
+
+msgctxt "field:production,calendar_color:"
+msgid "Color"
+msgstr "ពណ៌"
+
+msgctxt "field:production.calendar.color,color:"
+msgid "Color"
+msgstr "ពណ៌"
+
+msgctxt "field:production.calendar.color,state:"
+msgid "State"
+msgstr "ស្ថានភាព"
+
+msgctxt "help:production.calendar.color,color:"
+msgid "Add color in hex code (ex. #000000)"
+msgstr "បញ្ចូលពណ៌ជាកូដគោលដប់ប្រាំមួយ (ឧ. #000000)"
+
+msgctxt "model:ir.action,name:act_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "ពណ៌ប្រតិទិនផលិតកម្ម"
+
+msgctxt "model:ir.ui.menu,name:menu_production_calendar_color_list"
+msgid "Production Calendar Colors"
+msgstr "ពណ៌ប្រតិទិនផលិតកម្ម"
+
+msgctxt "model:production.calendar.color,name:"
+msgid "Production Calendar Color"
+msgstr "ពណ៌ប្រតិទិនផលិតកម្ម"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Assigned"
+msgstr "បានកំណត់"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Canceled"
+msgstr "បានបោះបង់"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Done"
+msgstr "បានបញ្ចប់"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Draft"
+msgstr "សេចក្តីព្រាង"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Request"
+msgstr "សំណើ"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Running"
+msgstr "កំពុងដំណើរការ"
+
+msgctxt "selection:production.calendar.color,state:"
+msgid "Waiting"
+msgstr "កំពុងរង់ចាំ"
+
+msgctxt "model:production.calendar.color,string:"
+msgid "Production Calendar Color"
+msgstr "ពណ៌ប្រតិទិនផលិតកម្ម"
